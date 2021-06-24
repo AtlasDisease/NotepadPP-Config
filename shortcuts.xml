@@ -66,9 +66,9 @@
         <Shortcut id="43054" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <Shortcut id="42026" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <Shortcut id="42027" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <Shortcut id="44081" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <Shortcut id="44082" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <Shortcut id="44083" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44081" Ctrl="no" Alt="no" Shift="no" Key="117" />
+        <Shortcut id="44082" Ctrl="no" Alt="no" Shift="no" Key="118" />
+        <Shortcut id="44083" Ctrl="no" Alt="no" Shift="no" Key="119" />
         <Shortcut id="44019" Ctrl="no" Alt="no" Shift="no" Key="112" />
         <Shortcut id="43010" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <Shortcut id="43014" Ctrl="no" Alt="no" Shift="no" Key="0" />
@@ -103,6 +103,7 @@
         <PluginCommand moduleName="NppExec.dll" internalID="1" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <PluginCommand moduleName="NppExec.dll" internalID="3" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <PluginCommand moduleName="NppExec.dll" internalID="14" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <PluginCommand moduleName="MarkdownViewerPlusPlus.dll" internalID="0" Ctrl="no" Alt="no" Shift="no" Key="120" />
     </PluginCommands>
     <ScintillaKeys>
         <ScintKey ScintID="2413" menuCmdID="0" Ctrl="no" Alt="no" Shift="no" Key="0" />
